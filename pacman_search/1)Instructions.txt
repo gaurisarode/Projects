@@ -1,0 +1,12 @@
+How to run:
+? To play pacman: python pacman.py
+? To run a certain agent using graphics use the following command:
+python pacman.py -p AgentName
+
+Types of Agents: 
+HillClimberAgent
+GeneticAgent
+MCTSAgent
+BFSAgent
+DFSAgent
+AStarAgent
